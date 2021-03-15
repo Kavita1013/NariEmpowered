@@ -43,7 +43,7 @@ ii.	For setting up a shop, they must pay a small fee per item listed. And, for e
 This category will contain a list of women essentials that will be made available at a subsidized rate. The money that is obtained via contributions made by users, the fee collected to list item, proceedings obtained per sale will be collectively used to subsidize all the products to be sold on this category.
 
 ![1p](https://user-images.githubusercontent.com/78211425/111150238-da1e6f80-85b3-11eb-8ded-c3cdb92495c9.jpg)
-![image](https://drive.google.com/file/d/1PuYdY6HAMKsF7uTRwk7h04T9E37qOXH2/view?usp=sharing)
+![2p](https://user-images.githubusercontent.com/78211425/111150484-2669af80-85b4-11eb-9c25-165435354f14.jpg)
 
 ## Tech stack: 
 
